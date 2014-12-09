@@ -1,0 +1,21 @@
+/*
+ * Project: Rock Paper Sissors
+ * @author Jacquelyn Reh
+ * @version 2014-26-09
+ */
+
+import java.util.Scanner;
+import java.util.Random;
+
+public class Rocpapsis() {
+    
+    public boolean compare(String user) {
+        
+    }
+ 
+    public static void main(String[] args) {
+        int num = random.nextInt(10);
+        System.out.print(num);
+    }
+    
+}
